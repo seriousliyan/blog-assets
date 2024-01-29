@@ -6,7 +6,7 @@ tags: ["blog", "github", "hugo", "themes"]
 categories: ["wiki"]
 ShowToc: true
 TocOpen: true
-draft: false
+draft: true
 ---
 
 In this article, I'll document how I created this blog from scratch,
